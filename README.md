@@ -18,7 +18,7 @@
  
               int main() {
  
-               printf("Hello, World!");
+               printf("Hello, World! It is hacktoberfest.");
                return 0;
                }
 }
